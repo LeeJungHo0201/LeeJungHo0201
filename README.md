@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 이정호입니다
+# 👋 안녕하세요, 개발자 이정호입니다
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/63/dd/d7/63ddd7f601b6c9961e83fc5f45bd67f5.gif" width="500" height = "269" alt=""/>
