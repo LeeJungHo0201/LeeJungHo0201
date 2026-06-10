@@ -15,6 +15,8 @@
 
 ---
 
+## 🛠 Tech Stack
+
 <table align="center">
   <tr>
     <td align="center" valign="top" width="260">
@@ -48,6 +50,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📌 Currently Working On
