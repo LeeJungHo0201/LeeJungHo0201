@@ -1,6 +1,6 @@
 # 👋 안녕하세요, 이정호입니다
 
-### 🎮 AI Game Software Developer  
+### 🎮 AI & Game Developer  
 게임 개발과 AI 기술을 기반으로, 사용자가 몰입할 수 있는 인터랙션과 서비스를 만드는 개발자를 목표로 하고 있습니다.
 
 ---
