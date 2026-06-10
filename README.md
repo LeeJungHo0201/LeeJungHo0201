@@ -59,10 +59,10 @@
 
 ## 📌 Currently Working On
 
-- Unity 3D 보스전 게임 프로젝트
-- GitHub 협업 및 Pull Request 흐름 학습
-- 게임 포트폴리오 웹사이트 제작
-- Java / Python / C# 기반 프로그래밍 실습
+- Unity 2D,3D 프로젝트 진행중(GGC)
+- GitHub 협업 및 Git 명령어 학습
+- 게임 디자인 패턴 적용 및 학습
+- 다양한 장르의 게임 체험 및 견문 넓히기
 
 ---
 
