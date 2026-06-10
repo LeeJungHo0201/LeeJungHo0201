@@ -15,81 +15,74 @@
 
 ---
 
-<div align="center">
-
 ## 🛠 Tech Stack
 
-</div>
+### Language
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>Language</h3>
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-    </td>
-    <td align="center" width="33%">
-      <h3>Game / Engine</h3>
-      <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Game%20System-35AEE2?style=flat-square"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Boss%20AI-1879B6?style=flat-square"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/3D%20Action-49B7C9?style=flat-square"/>
-    </td>
-    <td align="center" width="33%">
-      <h3>Tools</h3>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+
+### Game / Engine
+
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+
+### Web
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+### Tools
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
 
 ---
-
-<div align="center">
 
 ## 📌 Currently Working On
 
-</div>
-
-<div align="center">
-
-| 구분 | 내용 |
-|---|---|
-| 🎮 Main Focus | Unity 3D 게임 개발 |
-| 💻 Core Language | C# |
-| 🤖 Interest | Game AI, Boss Pattern, Interaction |
-| 🧩 Project | 3D Boss Battle Project |
-| 📚 Learning | Java, Python, C++, GitHub 협업 |
-
-</div>
+- Unity 3D 보스전 게임 프로젝트
+- GitHub 협업 및 Pull Request 흐름 학습
+- 게임 포트폴리오 웹사이트 제작
+- Java / Python / C# 기반 프로그래밍 실습
 
 ---
-
-<div align="center">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeeJungHo0201&show_icons=true&bg_color=ffffff&title_color=24292f&text_color=24292f&icon_color=2ea44f&border_color=d0d7de" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJungHo0201&layout=compact&bg_color=ffffff&title_color=24292f&text_color=24292f&border_color=d0d7de" width="36%"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJungHo0201&show_icons=true&theme=tokyonight)
 
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJungHo0201&layout=compact&theme=tokyonight)
 
 ---
 
-<div align="center">
+## 🎮 Main Projects
+
+### 1. Game Portfolio Website
+
+게임 UI와 개발자 포트폴리오 구성을 결합한 개인 웹 포트폴리오입니다.
+
+- Role: 기획 / 디자인 / HTML / CSS 구현
+- Concept: Neon HUD, Game UI, Portfolio Branding
+- Tech: HTML, CSS
+
+### 2. Unity 3D Boss Battle Project
+
+Unity 기반 3D 액션 게임 프로젝트로, 보스 AI와 스킬 패턴 구현을 중심으로 개발하고 있습니다.
+
+- Role: 보스 패턴 구현 / AI 추적 / 애니메이션 연동
+- Tech: Unity, C#
+
+### 3. VR Tour Project
+
+2024년에 진행한 VR 투어 프로젝트입니다. 가상 공간을 둘러보는 경험을 중심으로 제작한 프로젝트입니다.
+
+- Role: VR 콘텐츠 제작 / 공간 구성
+- Tech: VR, Unity
+
+---
 
 ## 🔗 Portfolio
 
@@ -97,18 +90,9 @@
 
 👉 **[이정호 Web Portfolio 바로가기](https://LeeJungHo0201.github.io)**
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 📫 Contact
 
-**Email**  
-7299miso21@naver.com
-
-**GitHub**  
-[@LeeJungHo0201](https://github.com/LeeJungHo0201)
-
-</div>
+- Email: 7299miso21@naver.com
+- GitHub: [@LeeJungHo0201](https://github.com/LeeJungHo0201)
