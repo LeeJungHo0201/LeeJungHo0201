@@ -1,7 +1,7 @@
 # 👋 안녕하세요, 이정호입니다
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/85/ff/f2/85fff2ca916677a16da82f6c9257b1b6.jpg" width="700" alt="gaming cat"/>
+  <img src="https://i.pinimg.com/originals/63/dd/d7/63ddd7f601b6c9961e83fc5f45bd67f5.gif" width="700" alt="gaming cat"/>
 </p>
 
 ### 🎮 AI & Game Developer  
